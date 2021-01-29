@@ -7,7 +7,7 @@ draft: false
 
 # Goldmark Typographer issues
 
-Here are examples of issues found with the `Typographer` extension in the Goldmark Markdown parser, which Hugo uses. I hope this will help `@yuin` and PR-submitters resolve them (see [this issue](https://github.com/yuin/goldmark/issues/180)).
+Here are examples of issues found with the `Typographer` extension in the [Goldmark](https://github.com/yuin/goldmark) Markdown parser, which [Hugo](https://gohugo.io) uses. I hope this will help [`@yuin`](https://github.com/yuin) and PR-submitters resolve them (see [this comment](https://github.com/yuin/goldmark/issues/180#issuecomment-769640321)).
 
 For each issue, you'll see:
 
