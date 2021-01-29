@@ -1,0 +1,7 @@
+html, body {
+  font-family: $serif-primary;
+  @media (prefers-color-scheme: dark) {
+    background: $background-dark-mode;
+    color: $default-color-dark-mode;
+  }
+}
