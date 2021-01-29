@@ -1,0 +1,21 @@
+{
+  "build": {
+    "env": {
+      "HUGO_VERSION": "0.80.0"
+    }
+  },
+  "github": {
+    "silent": true
+  },
+  "headers": [
+    {
+      "source": "/css/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=2678400"
+        }
+      ]
+    }
+  ]
+}
