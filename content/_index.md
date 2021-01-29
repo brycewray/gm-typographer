@@ -142,6 +142,9 @@ We&rsquo;re talking about the internet &mdash; &rsquo;net for short.
 **GM/T result**:<br />
 We're talking about the internet --- 'net for short.
 
+**Note**: This may be impossible to resolve, since it could cause subsequent issues with the opening quotation marks for nested quotes:<br />
+`He muttered, "And then she said, 'Hello,' in a shy voice."`
+
 ---
 
 ## Quotation marks next to footnotes
