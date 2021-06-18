@@ -1,7 +1,7 @@
 ---
 title: "Goldmark Typographer issues"
 date: 2021-01-29T07:30:00-06:00
-lastmod: 2021-05-03T08:39:00-05:00
+lastmod: 2021-06-18T11:00:00-05:00
 draft: false
 ---
 
