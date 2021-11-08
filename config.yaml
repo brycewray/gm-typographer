@@ -16,6 +16,7 @@ params:
   # Domain: ""
   Author: "Bryce Wray"
   Description: "Issues with Goldmark’s Typographer extension"
+  GoldmarkVersion: 1.4.3
 
 markup:
   # Reverting to Hugo-standard Goldmark parser and will handle typographical niceties

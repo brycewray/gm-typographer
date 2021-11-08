@@ -1,20 +1,20 @@
 ---
 title: "Goldmark Typographer issues"
 date: 2021-01-29T07:30:00-06:00
-lastmod: 2021-11-02T08:28:00-05:00
+lastmod: 2021-11-08T10:14:00-06:00
 draft: false
 ---
 
 # Goldmark Typographer issues
 
-Here are examples of issues found with the `Typographer` extension in the [Goldmark](https://github.com/yuin/goldmark) Markdown parser, which [Hugo](https://gohugo.io) uses. I hope this will help [`@yuin`](https://github.com/yuin) and PR-submitters resolve them; see [this comment](https://github.com/yuin/goldmark/issues/180#issuecomment-769640321).<br />
+Here are examples of issues found with the `Typographer` extension in the [goldmark](https://github.com/yuin/goldmark) Markdown parser, which [Hugo](https://gohugo.io) uses. I hope this will help [`@yuin`](https://github.com/yuin) and PR-submitters resolve them; see [this comment](https://github.com/yuin/goldmark/issues/180#issuecomment-769640321).<br />
 <span style="font-size: 0.75rem;">Repo for this site: [https://github.com/brycewray/gm-typographer](https://github.com/brycewray/gm-typographer).</span>
 
 For each issue, you'll see:
 
 - The Markdown
 - The **correct** result (in U.S. English)
-- The current Goldmark/Typographer result
+- The current goldmark/Typographer result
 
 ---
 
