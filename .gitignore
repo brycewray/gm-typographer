@@ -4,3 +4,8 @@ resources
 /.vscode
 # Local Netlify folder
 .netlify
+
+start.sh
+build.sh
+testbuild.sh
+push.sh
