@@ -7,6 +7,9 @@ draft: false
 
 # Goldmark Typographer issues
 
+**Note, 2022-02-28**: Thanks to [code](https://github.com/yuin/goldmark/pull/280) contributed by [Nate Moore](https://twitter.com/n_moore), [goldmark v.1.4.7](https://github.com/yuin/goldmark/releases/tag/v1.4.7) resolved these problems; [Hugo 0.93.0](https://github.com/gohugoio/hugo/releases/tag/v0.93.0) was the first Hugo release to include that goldmark version.
+{.yellowBox}
+
 Here are examples of issues found with the `Typographer` extension in the [goldmark](https://github.com/yuin/goldmark) Markdown parser, which [Hugo](https://gohugo.io) uses. I hope this will help [`@yuin`](https://github.com/yuin) and PR-submitters resolve them; see [this comment](https://github.com/yuin/goldmark/issues/180#issuecomment-769640321).<br />
 <span style="font-size: 0.75rem;">Repo for this site: [https://github.com/brycewray/gm-typographer](https://github.com/brycewray/gm-typographer).</span>
 
