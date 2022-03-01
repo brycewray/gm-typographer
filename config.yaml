@@ -1,6 +1,6 @@
 #baseURL: http://example.org/
 languageCode: en-us
-title: Issues with Goldmark’s Typographer extension
+title: Issues with goldmark’s Typographer extension
 # theme:
 
 summaryLength: 30 # words --- if you use summaries

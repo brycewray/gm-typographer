@@ -1,11 +1,11 @@
 ---
-title: "Goldmark Typographer issues"
+title: "goldmark Typographer issues"
 date: 2021-01-29T07:30:00-06:00
 lastmod: 2022-02-28T08:53:00-06:00
 draft: false
 ---
 
-# Goldmark Typographer issues
+# goldmark Typographer issues
 
 **Note, 2022-02-28**: Thanks to [code](https://github.com/yuin/goldmark/pull/280) contributed by [Nate Moore](https://twitter.com/n_moore), [goldmark v.1.4.7](https://github.com/yuin/goldmark/releases/tag/v1.4.7) resolved these problems; [Hugo 0.93.0](https://github.com/gohugoio/hugo/releases/tag/v0.93.0) was the first Hugo release to include that goldmark version.
 {.yellowBox}
